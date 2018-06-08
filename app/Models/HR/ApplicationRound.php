@@ -2,8 +2,6 @@
 
 namespace App\Models\HR;
 
-use App\User;
-use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Auth;
 
